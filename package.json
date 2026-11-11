@@ -1,0 +1,17 @@
+{
+  "name": "FlowForge",
+  "version": "1.0.0",
+  "private": true,
+	"packageManager": "pnpm@12.18.0",
+  "scripts": {
+    "dev": "turbo dev",
+    "build": "turbo build",
+    "lint": "turbo lint",
+    "typecheck": "turbo typecheck",
+    "clean": "turbo clean"
+  },
+  "devDependencies": {
+    "turbo": "^2.5.0",
+    "typescript": "^5.8.0"
+  }
+}
