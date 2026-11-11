@@ -607,7 +607,7 @@ Install the following before starting development:
 ### 1. Clone the repository
 
 ``` bash
-git clone https://github.com/HrishavSah/flowforge.git
+git clone https://github.com/HrishavSaha/flowforge.git
 cd flowforge
 ```
 
