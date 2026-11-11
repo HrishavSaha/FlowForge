@@ -607,11 +607,9 @@ Install the following before starting development:
 ### 1. Clone the repository
 
 ``` bash
-git clone https://github.com/<YOUR_ORGANIZATION_OR_USERNAME>/flowforge.git
+git clone https://github.com/HrishavSaha/flowforge.git
 cd flowforge
 ```
-
-Replace the repository URL with the actual GitHub URL.
 
 ### 2. Install dependencies
 
