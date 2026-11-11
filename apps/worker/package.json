@@ -1,0 +1,16 @@
+{
+  "name": "@FlowForge/worker",
+  "version": "1.0.0",
+  "private": true,
+	"packageManager": "pnpm@12.18.0",
+  "scripts": {
+    "dev": "tsx watch src/index.ts",
+    "build": "tsc -p tsconfig.json",
+    "typecheck": "tsc --noEmit -p tsconfig.json"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5.8.0"
+  }
+}

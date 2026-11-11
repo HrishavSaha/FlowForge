@@ -1,0 +1,1 @@
+console.log("FlowForge worker initialized");
