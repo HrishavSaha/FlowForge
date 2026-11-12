@@ -1,8 +1,8 @@
 {
-  "name": "@FlowForge/api",
+  "name": "@flowforge/api",
   "version": "1.0.0",
   "private": true,
-	"packageManager": "pnpm@12.18.0",
+  "packageManager": "pnpm@12.18.0",
   "scripts": {
     "dev": "tsx watch src/index.ts",
     "build": "tsc -p tsconfig.json",
@@ -10,6 +10,8 @@
     "typecheck": "tsc --noEmit -p tsconfig.json"
   },
   "dependencies": {
+    "@flowforge/database": "workspace:*",
+    "dotenv": "^18.0.10",
     "express": "^5.1.0"
   },
   "devDependencies": {
