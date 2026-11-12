@@ -1,1 +1,1 @@
-console.log("FlowForge worker initialized");
+console.log("flowforge worker initialized");

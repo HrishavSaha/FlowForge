@@ -1,5 +1,5 @@
 {
-  "name": "@FlowForge/shared",
+  "name": "@flowforge/shared",
   "version": "1.0.0",
   "private": true,
 	"packageManager": "pnpm@12.18.0",
